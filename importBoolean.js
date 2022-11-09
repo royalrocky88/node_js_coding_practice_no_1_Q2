@@ -1,3 +1,3 @@
-result = require("./exportBoolean.js");
+const result = require("./exportBoolean.js");
 
 console.log(result);
